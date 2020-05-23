@@ -1,8 +1,10 @@
 # Faces
 
 
-I added some lines
-Right here
+I fixed the punctuation. - W. Spagnola
+
+I added some lines.
+Right here!
 - W. Spagnola 
 
 Demo git repository
